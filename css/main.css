@@ -521,6 +521,7 @@ img {max-width: 100%;height: auto;}
     left: 0;
     background-color: rgba(29, 31, 33, .95);
     transition: opacity .3s ease-in;
+    z-index:100;
 }
     #lightbox-overlay.visible {
         opacity: 1;
